@@ -15,6 +15,11 @@ Orientador proposto: Prof. Davide Scarso\\
 Co-orientadora: Prof.ª Paulina Faria\\
 \url{https://orcid.org/0009-0002-4167-0732}}
 ```
+# Posicionamento do investigador
+
+Esta investigação emerge de um percurso situado na intersecção entre arquitectura, cerâmica e prática artística. Como arquitecto e ceramista, desenvolvi ao longo dos últimos anos um trabalho que articula o fazer com terra e barro cru em contextos colectivos e experimentais. No mestrado em Arte e Ciência do Vidro e Cerâmica (VICARTE, FCT-NOVA), investiguei práticas com terra a partir de dentro: instalações efémeras ao ar livre, vídeo-performances que interpretavam o valor simbólico do barro sobre o corpo, experimentos com algoritmos bio-inspirados aplicados ao comportamento do material, e instalações que exploravam a resposta colectiva diante da efemeridade e destruição da forma. Esse percurso conduziu a uma conclusão provisória que orienta o presente projecto: o cuidado emerge como dimensão constitutiva da sustentação de processos nos quais a precariedade não é uma limitação, mas a condição estrutural do fazer.
+
+O doutoramento não parte, portanto, de uma hipótese abstracta a verificar empiricamente. Parte de questões que emergiram da prática e que a prática, por si só, não consegue completamente articular. A proposta de tratar as práticas colectivas com terra como interlocutoras epistemológicas — como campos de produção conceitual e não apenas objectos de descrição — é uma aposta que o meu próprio percurso tornou necessária. O cruzamento entre a arquitectura com terra e o trabalho cerâmico permite-me habitar simultaneamente as dimensões técnica, material e colectiva destas práticas, o que constitui uma condição metodológica relevante para uma investigação que propõe aprender através do envolvimento directo com os materiais.
 
 # Questão de investigação
 
@@ -76,7 +81,7 @@ O estado da arte permite identificar uma lacuna produtiva: se os novos materiali
 
 Esta investigação propõe ocupar esse espaço: tratar práticas colectivas com terra como interlocutoras epistemológicas — não como casos empíricos que ilustram teorias previamente estabelecidas, mas como campos em que conceitos como cuidado, agenciamento colectivo, técnica e instabilidade constitutiva se tornam materialmente pensáveis.
 
-A originalidade do projecto reside menos em aplicar teorias contemporâneas às práticas com terra do que em investigar como essas práticas podem deslocar, tensionar ou reformular os próprios termos através dos quais matéria, técnica e conhecimento têm sido tradicionalmente pensados. Nesse sentido, o projecto procura contribuir para debates contemporâneos em história e filosofia da técnica, particularmente no que diz respeito às relações entre materialidade, conhecimento situado e práticas colectivas de produção e transmissão técnica.
+A originalidade do projecto reside menos em aplicar teorias contemporâneas às práticas com terra do que em investigar como essas práticas podem deslocar, tensionar ou reformular os próprios termos através dos quais matéria, técnica e conhecimento têm sido tradicionalmente pensados.Nesse sentido, o projecto insere-se no cruzamento entre filosofia da técnica e epistemologia das práticas materiais, procurando contribuir para debates contemporâneos em história e filosofia da tecnologia sobre as relações entre conhecimento situado, materialidade e práticas colectivas de produção e transmissão técnica — dimensões que o programa de Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia oferece um enquadramento privilegiado para desenvolver.
 
 # Metodologia
 

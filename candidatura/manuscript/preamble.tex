@@ -32,6 +32,11 @@
   [\vspace{0.25em}{\color{linecolor}\hrule height 0.35pt}\vspace{0.3em}]
 \titlespacing{\section}{0pt}{1.6em}{0.6em}
 
+\titleformat{\subsection}
+  {\normalfont\small\sffamily\bfseries}
+  {}{0em}{}
+\titlespacing{\subsection}{0pt}{1.2em}{0.4em}
+
 % --- List spacing ---
 \usepackage{enumitem}
 \setlist{nosep, leftmargin=*, topsep=2pt}
@@ -42,3 +47,14 @@
 % --- Widow/orphan control ---
 \widowpenalty=10000
 \clubpenalty=10000
+
+% --- Author block for proposta ---
+\newcommand{\authorname}[1]{%
+  {\vspace{0.5em}\small\sffamily\color{muted}#1\par}%
+}
+\newcommand{\authoraffil}[1]{%
+  \vspace{0.2em}%
+  {\small\sffamily\color{muted}#1\par}%
+  \vspace{1.4em}%
+  {\color{linecolor}\hrule height 0.5pt}\vspace{1.6em}%
+}
