@@ -1,52 +1,132 @@
 ---
-lang: en
-title: "Article Title"
-subtitle: "Article Subtitle"
+lang: pt
+title: "Barro como pensamento"
+subtitle: "Práticas coletivas de construção com terra como campos de elaboração conceitual"
 
-bibliography: ../references/references.bib
-# csl: ../references/your-journal.csl  ← uncomment and set path when you have a CSL file
+bibliography: ../../tese/4-Bibliography/bibliography.bib
 ---
 
 ```{=latex}
-% PDF author block.
-\authorname{Author Name}
+\authorname{Gustavo Teodoro de Assis}
 
-% Use \\ for line breaks inside the affiliation/contact block.
-\authoraffil{Institution Name\\
-email@institution.edu\\
-\url{https://orcid.org/0000-0000-0000-0000}}
+\authoraffil{Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia\\
+Faculdade de Ciências e Tecnologia — Universidade NOVA de Lisboa\\
+Orientador proposto: Prof. Davide Scarso\\
+Co-orientadora: Prof.ª Paulina Faria\\
+\url{https://orcid.org/0009-0002-4167-0732}}
 ```
 
-::: {.content-hidden when-format="pdf"}
-::: {custom-style="Centered"}
-Author Name
-https://orcid.org/0000-0000-0000-0000
+# Questão de investigação
 
-Institution Name
-email@institution.edu
-:::
-:::
+Este projeto investiga práticas coletivas com terra não prioritariamente como objetos culturais a serem documentados ou preservados, mas como campos materiais de pensamento capazes de produzir elaboração conceitual. Em vez de tratar práticas com barro e terra como casos empíricos aos quais uma teoria seria posteriormente aplicada, a investigação propõe abordá-las como interlocutoras epistemológicas através das quais conceitos como cuidado, materialidade, técnica e agenciamento coletivo podem ser repensados.
 
-```{=latex}
-\begin{articleabstract}
-Abstract text goes here.
+No centro da investigação encontra-se a questão do cuidado — não como prescrição ética ou moral aplicada, mas como condição ontológica que emerge através do envolvimento material. Práticas construtivas com terra frequentemente exigem negociação contínua com instabilidade, humidade, gravidade, erosão, ritmo e atenção coletiva. Nesse contexto, o cuidado aparece menos como virtude abstrata e mais como modo de sustentar relações em processos nos quais a forma nunca é totalmente fixa ou autónoma. É precisamente nessa instabilidade constitutiva que as práticas com terra se tornam produtoras de pensamento — e não apenas objetos dele.
 
-\medskip\noindent\textbf{Keywords:} keyword one; keyword two; keyword three
-\end{articleabstract}
-```
+O movimento teórico do projeto parte, portanto, da prática em direção à teoria, e não o contrário. Pensadoras e autores como María Puig de la Bellacasa, Karen Barad e Tim Ingold tornam-se relevantes não como modelos explicativos impostos externamente ao campo, mas porque as próprias práticas fazem emergir questões que entram em ressonância com debates contemporâneos do pós-humanismo e dos novos materialismos. Em última instância, o projeto procura investigar se processos coletivos de construção com terra podem funcionar como formas situadas de produção de conceitos — campos em que o barro e a terra operam como operadores epistemológicos através dos quais relações, formas de atenção e modos de conhecimento se tornam materialmente pensáveis.
 
-::: {.content-hidden when-format="pdf"}
-Abstract text goes here.
+# Estado da Arte
 
-**Keywords:** keyword one; keyword two; keyword three
-:::
+## 1. Matéria, cuidado e relacionalidade: novos materialismos e pós-humanismo
 
-# Introduction
+As últimas décadas assistiram a uma reconfiguração profunda do modo como as ciências humanas e sociais pensam a relação entre matéria, agência e conhecimento. O que se convencionou chamar de novos materialismos constitui menos uma escola unificada do que um conjunto de deslocamentos convergentes: a recusa da separação entre natureza e cultura, a atenção às capacidades agentivas de entidades não humanas, e a crítica às epistemologias que reservam ao sujeito humano o monopólio da produção de sentido.
 
-# Background
+Karen Barad, a partir da física quântica e da filosofia de Niels Bohr, propõe o conceito de *intra-ação* para descrever um mundo em que sujeito e objeto não preexistem às suas relações, mas emergem através delas (Barad, 2007). A matéria, neste quadro, não é passiva nem inerte — é um processo de contínua materialização, atravessado por forças, relações e fronteiras que se constituem mutuamente. Esta formulação tem consequências directas para o modo como se pode pensar a construção com terra: o barro não é simplesmente um material sobre o qual age um sujeito, mas um campo de forças em que forma, gravidade, humidade, gesto e atenção coletiva se coimplicam.
 
-# Discussion
+María Puig de la Bellacasa radicaliza esta perspectiva ao introduzir o cuidado como categoria ontológica e não apenas ética. Em *Matters of Care* (2017) e no artigo "'Nothing comes without its world': thinking with care" (2012), a autora argumenta que o cuidado é uma condição de sustentação das relações em mundos interdependentes — não uma virtude moral aplicada de fora, mas uma prática imanente que emerge do envolvimento com o que é precário, instável e em risco de se desfazer. Esta formulação ressoa directamente com as práticas construtivas com terra, em que a manutenção da forma exige negociação contínua com a erosão, a humidade e o tempo.
 
-# Conclusion
+Jane Bennett, em *Vibrant Matter* (2010), propõe o conceito de *vibrancy* para descrever a capacidade das coisas de interferir nos processos humanos de forma não determinada. O barro, neste sentido, não é apenas moldado: resiste, cede, surpreende, impõe condições. Donna Haraway, por sua vez, oferece em *Staying with the Trouble* (2016) uma ética do habitar situado — a ideia de que pensar bem exige permanecer perto das complexidades e precariedades do presente, sem a promessa de uma saída ou de uma solução totalizante.
 
-# References
+O que estas autoras partilham — e o que as torna relevantes para este projeto — é a convicção de que o pensamento emerge do contacto, da fricção, do envolvimento com o que não se deixa estabilizar facilmente. É precisamente esta condição que as práticas com terra habitam de forma exemplar.
+
+## 2. Antropologia da prática e do fazer: conhecimento como engajamento material
+
+A tradição antropológica representada pelo trabalho de Tim Ingold constitui o segundo eixo teórico central desta investigação. Ingold propõe uma inversão fundamental no modo como se pensa a relação entre conhecimento e prática: em vez de partir de representações mentais que guiam a acção, sugere que o conhecimento emerge do engajamento directo com os materiais, os ambientes e os outros com quem se trabalha.
+
+Em *Fazer: Antropologia, Arqueologia, Arte e Arquitetura* (2013, trad. port. 2022), Ingold desenvolve a distinção entre *hylomorphism* — o modelo que impõe forma a uma matéria passiva — e uma concepção alternativa em que forma e matéria se co-produzem no processo do fazer. Construir com terra não é executar um plano pré-concebido sobre um material inerte: é uma negociação contínua com as propriedades do barro, as condições climáticas, os corpos dos participantes e os ritmos do trabalho colectivo. O artigo "The textility of making" (2010) aprofunda esta ideia ao descrever o fazer como um seguir os materiais — uma atenção às suas tendências, resistências e possibilidades — em vez de uma imposição de vontade sobre substância.
+
+Em *Estar vivo: Ensaios sobre movimento, conhecimento e descrição* (2011, trad. port. 2021), Ingold insiste que a percepção não é uma operação cognitiva que processa dados sensoriais, mas um modo de habitar o mundo — uma forma de atenção que se desenvolve através do movimento, da prática repetida e do envolvimento com superfícies, texturas e resistências. Esta fenomenologia do habitar tem raízes na obra de Maurice Merleau-Ponty, cuja *Fenomenologia da percepção* (1945, trad. port. 2022) estabelece a corporalidade como condição fundamental de todo o conhecimento: o corpo não é um instrumento do sujeito, mas o próprio medium através do qual o sujeito e o mundo se constituem mutuamente.
+
+O que esta tradição abre para o presente projeto é a possibilidade de tratar as práticas com terra não como objectos de descrição etnográfica, mas como campos em que formas específicas de atenção, de coordenação e de conhecimento se tornam materialmente possíveis. A questão não é o que os construtores sabem sobre a terra, mas o que emerge de pensar e agir em contacto permanente com ela.
+
+## 3. Construção com terra: entre técnica, património e conhecimento situado
+
+O terceiro eixo desta investigação situa-se no campo específico da construção com terra, onde coexistem tradições técnicas, debates sobre património e, mais recentemente, uma atenção crescente às dimensões epistemológicas e sociais das práticas construtivas vernaculares.
+
+A literatura técnica sobre construção com terra em contexto português e ibero-americano está bem estabelecida. Os *Cadernos de construção com terra* (Rocha, 2015; Fernandes e Tavares, 2016; Faria e Lima, 2018; Mendes, 2023) documentam as principais técnicas — taipa, adobe, cob, rebocos de terra — e constituem uma referência fundamental para compreender as condicionantes materiais destas práticas. O trabalho de Paulina Faria no domínio dos rebocos de terra e da conservação de estruturas em terra oferece uma base técnica que este projeto pretende articular com uma reflexão epistemológica mais ampla.
+
+A obra de Hassan Fathy, *Arquitectura para os pobres* (1973, trad. port. 2009), permanece uma referência incontornável pela sua insistência na dimensão comunitária e participativa da construção com terra — a ideia de que construir com materiais locais e técnicas vernaculares é inseparável de uma forma de organização social e de transmissão de saberes. Esta dimensão é aprofundada em estudos sobre práticas de mutirão e autoconstrução no Brasil (Coimbra, 2017; Cicuto e Moreno de Camargo, 2025; Burnett et al., 2022), que mostram como a construção colectiva com terra articula territorialidade, autonomia e formas de conhecimento que resistem à formalização técnica.
+
+No plano do património, o debate contemporâneo tem deslocado o foco da preservação de objectos para a compreensão das práticas vivas que os produzem e mantêm. Laurajane Smith (2023) argumenta que o discurso autorizado do património tende a estabilizar e monumentalizar o que são na verdade processos dinâmicos de produção cultural — um argumento que ressoa directamente com a proposta desta investigação de tratar as práticas com terra não como património estático a preservar, mas como campos activos de produção de conhecimento.
+
+António Bispo dos Santos oferece, em *A terra dá, a terra quer* (2023) e em "Somos da terra" (2023), uma perspectiva radicalmente diferente da tradição académica ocidental: uma ontologia em que a terra não é recurso nem material, mas sujeito de relações — uma formulação que, vinda de dentro de uma tradição quilombola, entra em ressonância produtiva com os debates dos novos materialismos sem se reduzir a eles.
+
+## 4. Lacuna e contribuição original
+
+O estado da arte permite identificar uma lacuna produtiva: se os novos materialismos têm teorizado a agência da matéria, e se a antropologia da prática tem descrito o conhecimento como emergente do engajamento material, a articulação específica entre práticas coletivas de construção com terra e produção de conceitos permanece pouco explorada. A maior parte dos estudos sobre construção vernacular move-se no plano técnico ou patrimonial; a maior parte dos debates teóricos sobre materialidade opera num registo abstracto, distante das condições concretas de práticas específicas.
+
+Esta investigação propõe ocupar esse espaço: tratar as práticas com terra como interlocutoras epistemológicas — não como casos empíricos que ilustram teorias, mas como campos em que conceitos como cuidado, agenciamento coletivo e instabilidade constitutiva se tornam materialmente pensáveis.
+
+# Metodologia
+
+Esta investigação recorre a métodos etnográficos e baseados na prática, entendidos não como ferramentas neutras de recolha de dados, mas como modos de conhecimento que implicam o investigador no campo que estuda. A etnografia aqui proposta não tem como finalidade a descrição exaustiva de comunidades ou a preservação de saberes vernaculares como documentos de uma cultura em risco. O seu objectivo é mais específico: permanecer suficientemente perto das práticas materiais para que os conceitos que delas emergem possam ser identificados, articulados e colocados em diálogo com debates teóricos contemporâneos.
+
+A investigação basear-se-á em três modalidades complementares de trabalho em campo.
+
+A primeira é a **participação directa em processos construtivos com terra**, incluindo oficinas, mutirões e projectos de construção colectiva em contextos portugueses e ibero-americanos. Esta participação não é meramente observacional: implica o envolvimento corporal com os materiais, os gestos, os ritmos e as formas de coordenação que caracterizam estas práticas. Seguindo a proposta de Ingold, o investigador não estuda a prática de fora, mas aprende através dela — o que significa que o próprio processo de aprendizagem é um dado metodológico.
+
+A segunda modalidade é a **documentação etnográfica** — registos em diário de campo, fotografia e vídeo — orientada não para a captura de factos, mas para a atenção a momentos de tensão, improvisação, negociação e falha. São precisamente esses momentos — em que a forma resiste, o material cede de forma inesperada, ou a coordenação colectiva se reconfigura — que revelam as condições ontológicas das práticas com terra.
+
+A terceira modalidade é o **diálogo com praticantes** — construtores, artesãos, artistas e comunidades que trabalham com terra — não como informantes cujo saber é extraído e depois traduzido em linguagem académica, mas como interlocutores cujas formulações, vocabulários e formas de atenção constituem eles próprios material teórico. Esta abordagem está alinhada com o que Puig de la Bellacasa descreve como *thinking with* — pensar com, e não apenas sobre.
+
+A análise do material recolhido orientar-se-á pela pergunta central da investigação: que tipos de conceitos emergem quando o pensamento permanece próximo de práticas materiais precárias nas quais forma, manutenção, gesto, ambiente e coordenação colectiva não podem ser claramente separados? O movimento analítico é, portanto, indutivo — da prática em direcção à teoria — sem que isso implique a ausência de enquadramento teórico prévio. Os debates dos novos materialismos e da antropologia da prática funcionam menos como grelhas de análise do que como interlocutores com quem o material empírico é colocado em diálogo.
+
+# Cronograma
+
+| Ano | Actividades principais |
+|-----|----------------------|
+| **1º ano** | Revisão aprofundada da literatura nos três eixos temáticos. Definição dos contextos de trabalho em campo. Primeiras participações em processos construtivos. Início do diário de investigação. |
+| **2º ano** | Trabalho de campo intensivo. Participação em mutirões e oficinas de construção com terra em Portugal e, se possível, no Brasil. Recolha e análise preliminar de material etnográfico. Primeira articulação dos conceitos emergentes. |
+| **3º ano** | Aprofundamento teórico e início da redacção da tese. Apresentação de resultados parciais em conferências. Submissão de artigo a revista científica. |
+| **4º ano** | Redacção final da tese. Revisão e entrega. Defesa pública. |
+
+# Referências bibliográficas
+
+Barad, K. (2007). *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*. Duke University Press.
+
+Bennett, J. (2010). *Vibrant Matter: A Political Ecology of Things*. Duke University Press.
+
+Burnett, F. L., Souza, C. R. P. de, e Moniz Filho, M. F. (2022). Territorialidades e exercícios de autonomia. *Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas*, 17, e20210057.
+
+Cicuto, M. e Moreno de Camargo, C. (2025). Autoconstrução, mutirão e autogestão. *Astrágalo*, 38, 105–118.
+
+Coimbra, J. M. (2017). Mutirão no processo construtivo de casas de barro. *MIX Sustentável*, 3(4), 47–61.
+
+Faria, P. e Lima, J. (2018). *Cadernos de construção com terra 3: Rebocos de terra*. Argumentum.
+
+Fathy, H. (2009). *Arquitectura para os pobres*. Dinalivro/Argumentum.
+
+Fernandes, M. e Tavares, A. (2016). *Cadernos de construção com terra 2: O adobe*. Argumentum.
+
+Haraway, D. (2016). *Staying with the Trouble: Making Kin in the Chthulucene*. Duke University Press.
+
+Ingold, T. (2010). The textility of making. *Cambridge Journal of Economics*, 34(1), 91–102.
+
+Ingold, T. (2021). *Estar vivo: Ensaios sobre movimento, conhecimento e descrição*. Editora Vozes.
+
+Ingold, T. (2022). *Fazer: Antropologia, Arqueologia, Arte e Arquitetura*. Editora Vozes.
+
+Mendes, M. F. (2023). *Cadernos de construção com terra 4: Taipa*. Argumentum.
+
+Merleau-Ponty, M. (2022). *Fenomenologia da percepção* (5ª ed.). Martins Fontes.
+
+Puig de la Bellacasa, M. (2012). 'Nothing comes without its world': Thinking with care. *The Sociological Review*, 60(2), 197–216.
+
+Puig de la Bellacasa, M. (2017). *Matters of Care*. University of Minnesota Press.
+
+Rocha, M. (2015). *Cadernos de construção com terra 1: Técnicas de construção com terra*. Argumentum.
+
+Santos, A. B. dos (2023). *A terra dá, a terra quer*. Ubu Editora.
+
+Santos, A. B. dos (2023). Somos da terra. In F. Carnevalli et al. (Eds.), *Terra: Antologia afro-indígena*. Ubu.
+
+Smith, L. (2023). O discurso autorizado do patrimônio. *Revista Confluências Culturais*, 12(2), 122–135.
