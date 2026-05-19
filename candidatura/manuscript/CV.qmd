@@ -1,0 +1,110 @@
+---
+lang: pt
+format:
+  pdf:
+    include-in-header:
+      - preamble.tex
+    include-before-body:
+      text: |
+        \cvname{Gustavo Teodoro de Assis}
+        \cvcontact{%
+          Arquitecto · Ceramista · Investigador em arte e materialidade \quad
+          g.assis@me.com \quad
+          +351 928 118 479\\[0.2em]
+          ORCID: \href{https://orcid.org/0009-0002-4167-0732}{0009-0002-4167-0732} \quad
+          Ciência ID: 2213-4817-4BF2%
+        }
+---
+
+# Formação Académica
+
+**Mestrado em Arte e Ciência do Vidro e da Cerâmica** *(em conclusão)*\
+Universidade NOVA de Lisboa / FBAUL (VICARTE), 2024–presente\
+Orientação: Prof.ª Paulina Faria e Prof.ª Teresa Lousa
+
+**Pós-graduação em Arteterapia e Expressões Criativas**\
+Instituto Junguiano de Ensino e Pesquisa (IJEP), Brasil, 2020–2022
+
+**Study in Japan Programme**\
+Ritsumeikan University, Quioto, Japão, 2013–2014
+
+**Bacharelado em Arquitectura e Urbanismo**\
+Universidade Federal do Rio de Janeiro (UFRJ), Brasil, 1994–2001
+
+# Publicações Académicas
+
+**Artigo em revista científica**
+
+Lousa, T. & Assis, G. T. de (2026). Feminismo em Passagem (1979): Barro, corpo e símbolo na arte brasileira. *Art & Sensorium*, 13(1), 230–246. [doi:10.33871/sensorium.2026.13.11187](https://doi.org/10.33871/sensorium.2026.13.11187)
+
+**Preprint**
+
+Assis, G. T. de (2026). Valorization of Water Treatment Sludge from Water Treatment Plant for Ceramic Materials. [doi:10.13140/RG.2.2.29475.52002](https://doi.org/10.13140/RG.2.2.29475.52002)
+
+**Dissertação de pós-graduação**
+
+Assis, G. T. de (2022). *Arteterapia de abordagem junguiana: A técnica do cuidado na cerâmica*. IJEP, Brasil. [doi:10.13140/RG.2.2.25884.40320](https://doi.org/10.13140/RG.2.2.25884.40320)
+
+# Convites Académicos e Publicações em Preparação
+
+Autor convidado para número temático de *Interface Focus* (Royal Society Publishing): "Metamarks and Collective Coordination: Spanning Biology to Digital Society". *(em preparação)*
+
+# Comunicações em Conferências
+
+**Comunicações orais**
+
+Assis, G. T. de (2026, Set.). From code to earth: Hybrid prototyping for earth-based construction. *Earth USA 2026 — 13th International Conference on Architecture & Construction with Earthen Materials*, Santa Fé, EUA. *(aceite)*
+
+Assis, G. T. de (2026, Mai.). Celeidar: Clay, gesture, and the pedagogy of not knowing. *Kaleidoscope Conference*, Faculty of Education, University of Cambridge.
+
+Assis, G. T. de (2026, Mai.). Entre a terra e a água: O barro como operador simbólico da paisagem cultural. *7º Colóquio Ibero-Americano Paisagem Cultural, Património e Projecto*, Portugal.
+
+Assis, G. T. de (2025, Dez.). My creation process on the thesis "Memory and Desire". *Ciclo de conferências*, FBAUL, Lisboa.
+
+# Investigação e Projectos
+
+**Instalação em terra e cana** — construção em escala arquitectónica explorando armação, cobertura e degradação, FCT NOVA, Almada, 2025–atual
+
+**Investigação em maquetes construtivas** — modelos de estudo em terra e cana; sistemas de armação e aplicação parcial de terra, 2025–atual
+
+**Valorização de lamas de ETA** — projecto de investigação em materiais cerâmicos, FCT NOVA, 2024–atual
+
+**Massas Cerâmicas** — fundador e coordenador de grupo independente de investigação prática sobre formulação e experimentação de massas cerâmicas, 2024–presente
+
+# Exposições e Obra Artística Seleccionada
+
+*Cúmulo* e *Gavetas da Memória* — Bienal Internacional de Cerâmica Artística de Aveiro, 2025
+
+*Portas* — Biblioteca FCT NOVA, Almada, 2024
+
+*Nanã* — Centro Cultural UNIFASE, Petrópolis, Brasil, 2023
+
+*Ocupação EAV* — Escola de Artes Visuais do Parque Lage, Rio de Janeiro, 2022–2023
+
+*Urban Hacking* — Intervenção urbana, SEBRAE, Nova Friburgo, Brasil, 2019
+
+# Prática Profissional
+
+**Gustavo Assis Cerâmicas** — Prática artística e ensino, 2017–presente\
+Trabalho autoral; investigação prática em modelação e queima; ensino orientado à experiência material
+
+**Assis e Teodoro Administração de Bens** — Sócio, 2007–presente\
+Projectos arquitectónicos e gestão de património imobiliário
+
+# Formação Complementar
+
+Bioarquitetura e Bioconstrução — TIBÁ, Brasil, 2023
+
+Poéticas Expositivas: Desenvolvimento e Acompanhamento de Projectos — EAV Parque Lage, Brasil, 2022–2025
+
+# Afiliações
+
+Ordem dos Arquitectos (Portugal), membro n.º 30230, 2024–presente
+
+# Idiomas
+
+Português (nativo) · Inglês (fluente) · Japonês (avançado)
+
+# Palavras-chave de Investigação
+
+Investigação baseada na prática · Construção com terra · Novos materialismos · Antropologia da prática · Materialidade da argila · Arte e materialidade · Conhecimento situado · Agenciamento colectivo

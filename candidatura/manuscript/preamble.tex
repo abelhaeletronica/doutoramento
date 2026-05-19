@@ -1,7 +1,44 @@
-\newcommand{\authorname}[1]{%
-  \begin{center}\large\textbf{#1}\end{center}%
+% --- Fonts (ambas de Hermann Zapf — combinam perfeitamente) ---
+\usepackage{fontspec}
+\setmainfont{Palatino}[Numbers = OldStyle, Ligatures = TeX]
+\setsansfont{Optima}[Scale = MatchLowercase]
+\setmonofont{JetBrains Mono}[Scale = 0.85]
+
+% --- Micro-typography ---
+\usepackage{microtype}
+
+% --- Colour ---
+\usepackage{xcolor}
+\definecolor{accent}{HTML}{1A1A1A}
+\definecolor{muted}{HTML}{555555}
+\definecolor{linecolor}{HTML}{C8C8C8}
+
+% --- Header block ---
+\newcommand{\cvname}[1]{%
+  {\centering\fontsize{22}{26}\selectfont\sffamily\textbf{#1}\par}%
 }
-\newcommand{\authoraffil}[1]{%
-  \begin{center}\small #1\end{center}%
-  \vspace{1em}%
+\newcommand{\cvcontact}[1]{%
+  \vspace{0.4em}%
+  {\centering\small\sffamily\color{muted}#1\par}%
+  \vspace{1.4em}%
+  {\color{linecolor}\hrule height 0.5pt}\vspace{1.6em}%
 }
+
+% --- Section headings ---
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\footnotesize\sffamily\bfseries\color{muted}}
+  {}{0em}{\MakeUppercase}
+  [\vspace{0.25em}{\color{linecolor}\hrule height 0.35pt}\vspace{0.3em}]
+\titlespacing{\section}{0pt}{1.6em}{0.6em}
+
+% --- List spacing ---
+\usepackage{enumitem}
+\setlist{nosep, leftmargin=*, topsep=2pt}
+
+% --- No page numbers ---
+\pagestyle{empty}
+
+% --- Widow/orphan control ---
+\widowpenalty=10000
+\clubpenalty=10000
