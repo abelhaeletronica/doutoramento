@@ -1,0 +1,26 @@
+---
+lang: pt
+title: "Carta de Motivação"
+subtitle: "Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia"
+author: "Gustavo Teodoro de Assis"
+date: today
+date-format: "D [de] MMMM [de] YYYY"
+---
+
+A minha trajectória até esta candidatura não é linear, mas revela uma continuidade progressiva entre prática artística, investigação material e reflexão teórica. Formei-me em Arquitectura e Urbanismo no Rio de Janeiro, passei por Quioto, onde o contacto com a cerâmica japonesa reorientou profundamente o meu percurso, e instalei-me posteriormente em Nova Friburgo, na região serrana do Rio de Janeiro, onde mantive um ateliê de cerâmica durante vários anos.
+
+Quando me candidatei ao Mestrado em Arte e Ciência do Vidro e da Cerâmica na VICARTE — Universidade NOVA de Lisboa — sabia que queria aprofundar a minha prática. O que não sabia era que o mestrado me conduziria a uma questão diferente: que o que me interessa não é apenas fazer, mas pensar através do fazer — incluindo as formas de conhecimento que emergem em práticas colectivas e materiais.
+
+Foi essa descoberta que abriu o doutoramento como necessidade e não apenas como ambição.
+
+A minha dissertação de mestrado centrou-se em práticas colectivas de construção com barro e terra, e os temas que emergiram ao longo da investigação — cuidado, materialidade, agenciamento colectivo e conhecimento situado — revelaram-se demasiado amplos para serem plenamente desenvolvidos no espaço e no tempo de um mestrado. No momento em que concluí a investigação, senti claramente que não estava a encerrar um percurso, mas a identificar o ponto de partida de outro. O doutoramento surge, assim, como a continuação natural desse processo — não por inércia, mas porque as questões que permaneceram em aberto exigem um enquadramento mais amplo, métodos mais desenvolvidos e um diálogo teórico mais aprofundado com os novos materialismos, a antropologia da prática e a filosofia da técnica.
+
+Interessa-me particularmente desenvolver uma investigação em que reflexão teórica e envolvimento directo com práticas materiais possam permanecer continuamente articulados. O projecto que proponho procura precisamente investigar de que modo práticas colectivas de construção com terra podem funcionar como formas situadas de produção de pensamento, colocando em diálogo prática construtiva, experiência material e elaboração conceitual.
+
+A escolha de Portugal e deste programa em particular não é circunstancial. Fui muito bem acolhido aqui e reconheço a existência de uma comunidade académica e prática genuinamente comprometida com os estudos sobre terra e barro — desde a investigação técnica da Professora Paulina Faria, que aceitou ser minha co-orientadora, até ao trabalho filosófico do Professor Davide Scarso, cujas reflexões sobre ontologias relacionais entram em ressonância directa com as questões que venho desenvolvendo.
+
+Espero também poder contribuir para esta comunidade trazendo uma perspectiva brasileira, formada por experiências e tradições que não se esgotam no horizonte europeu, e um interesse particular pelas dimensões simbólicas, antropológicas e não-antropocêntricas das práticas com terra, ainda relativamente pouco exploradas neste contexto.
+
+A participação recente em conferências e convites para colaboração académica confirmou-me que o trabalho desenvolvido no mestrado encontrou interlocutores e que existe um espaço real para aprofundar esta investigação. O doutoramento representa, para mim, a possibilidade de desenvolver esse percurso com o rigor, a continuidade e o tempo que uma investigação desta natureza exige.
+
+Candidato-me, por isso, a este programa convicto de que a investigação que proponho — tratar práticas colectivas de construção com terra como campos materiais de produção de pensamento — pode contribuir de forma original para debates contemporâneos em história e filosofia da técnica, bem como para uma compreensão mais ampla do que significa conhecer através do fazer.

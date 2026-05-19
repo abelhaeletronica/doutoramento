@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: "Barro como pensamento"
-subtitle: "Práticas coletivas de construção com terra como campos de elaboração conceitual"
+subtitle: "Práticas colectivas de construção com terra como formas situadas de produção conceitual"
 
 bibliography: ../../tese/4-Bibliography/bibliography.bib
 ---
@@ -18,11 +18,21 @@ Co-orientadora: Prof.ª Paulina Faria\\
 
 # Questão de investigação
 
-Este projeto investiga práticas coletivas com terra não prioritariamente como objetos culturais a serem documentados ou preservados, mas como campos materiais de pensamento capazes de produzir elaboração conceitual. Em vez de tratar práticas com barro e terra como casos empíricos aos quais uma teoria seria posteriormente aplicada, a investigação propõe abordá-las como interlocutoras epistemológicas através das quais conceitos como cuidado, materialidade, técnica e agenciamento coletivo podem ser repensados.
+Este projecto investiga práticas colectivas com terra não prioritariamente como objectos culturais a serem documentados ou preservados, mas como campos materiais através dos quais processos de elaboração conceitual podem emergir. Em vez de tratar práticas com barro e terra como casos empíricos aos quais uma teoria seria posteriormente aplicada, a investigação propõe abordá-las como interlocutoras epistemológicas através das quais conceitos como cuidado, materialidade, técnica e agenciamento colectivo podem ser repensados.
 
-No centro da investigação encontra-se a questão do cuidado — não como prescrição ética ou moral aplicada, mas como condição ontológica que emerge através do envolvimento material. Práticas construtivas com terra frequentemente exigem negociação contínua com instabilidade, humidade, gravidade, erosão, ritmo e atenção coletiva. Nesse contexto, o cuidado aparece menos como virtude abstrata e mais como modo de sustentar relações em processos nos quais a forma nunca é totalmente fixa ou autónoma. É precisamente nessa instabilidade constitutiva que as práticas com terra se tornam produtoras de pensamento — e não apenas objetos dele.
+No centro da investigação encontra-se a questão do cuidado — não como prescrição ética ou moral aplicada externamente às práticas, mas como condição material de sustentação de relações que emerge através do envolvimento com processos instáveis e precários. Práticas construtivas com terra frequentemente exigem negociação contínua com humidade, erosão, gravidade, ritmo, manutenção e atenção colectiva. Nesse contexto, o cuidado aparece menos como virtude abstracta e mais como modo de sustentar relações em processos nos quais a forma nunca é totalmente fixa ou autónoma.
 
-O movimento teórico do projeto parte, portanto, da prática em direção à teoria, e não o contrário. Pensadoras e autores como María Puig de la Bellacasa, Karen Barad e Tim Ingold tornam-se relevantes não como modelos explicativos impostos externamente ao campo, mas porque as próprias práticas fazem emergir questões que entram em ressonância com debates contemporâneos do pós-humanismo e dos novos materialismos. Em última instância, o projeto procura investigar se processos coletivos de construção com terra podem funcionar como formas situadas de produção de conceitos — campos em que o barro e a terra operam como operadores epistemológicos através dos quais relações, formas de atenção e modos de conhecimento se tornam materialmente pensáveis.
+O movimento teórico do projeto parte, portanto, da prática em direção à teoria, e não o contrário. Pensadoras e autores como María Puig de la Bellacasa, Karen Barad e Tim Ingold tornam-se relevantes não como modelos explicativos impostos externamente ao campo, mas porque as próprias práticas fazem emergir questões que entram em ressonância com debates contemporâneos do pós-humanismo e dos novos materialismos. Em última instância, o projeto procura investigar se processos coletivos de construção com terra podem funcionar como formas situadas de produção de conceitos — campos em que o barro e a terra operam como meios materiais através dos quais relações, formas de atenção e modos de conhecimento podem emergir.
+
+A investigação organiza-se em torno da seguinte questão central: de que modo práticas colectivas de construção com terra podem operar como formas situadas de produção conceitual, através das quais noções como cuidado, técnica, materialidade e agenciamento colectivo se tornam materialmente pensáveis?
+
+## Objectivos específicos
+
+* Investigar como práticas colectivas com terra articulam coordenação, atenção e manutenção material.
+* Analisar de que modo instabilidade, precariedade e transformação participam da produção de conhecimento nessas práticas.
+* Colocar experiências etnográficas em diálogo com debates contemporâneos dos novos materialismos e da antropologia da prática.
+* Contribuir para uma compreensão do património técnico enquanto prática viva, situada e continuamente renegociada.
+* Examinar como processos construtivos com terra podem deslocar concepções tradicionais da relação entre matéria, técnica e conhecimento.
 
 # Estado da Arte
 
@@ -64,7 +74,9 @@ António Bispo dos Santos oferece, em *A terra dá, a terra quer* (2023) e em "S
 
 O estado da arte permite identificar uma lacuna produtiva: se os novos materialismos têm teorizado a agência da matéria, e se a antropologia da prática tem descrito o conhecimento como emergente do engajamento material, a articulação específica entre práticas coletivas de construção com terra e produção de conceitos permanece pouco explorada. A maior parte dos estudos sobre construção vernacular move-se no plano técnico ou patrimonial; a maior parte dos debates teóricos sobre materialidade opera num registo abstracto, distante das condições concretas de práticas específicas.
 
-Esta investigação propõe ocupar esse espaço: tratar as práticas com terra como interlocutoras epistemológicas — não como casos empíricos que ilustram teorias, mas como campos em que conceitos como cuidado, agenciamento coletivo e instabilidade constitutiva se tornam materialmente pensáveis.
+Esta investigação propõe ocupar esse espaço: tratar práticas colectivas com terra como interlocutoras epistemológicas — não como casos empíricos que ilustram teorias previamente estabelecidas, mas como campos em que conceitos como cuidado, agenciamento colectivo, técnica e instabilidade constitutiva se tornam materialmente pensáveis.
+
+A originalidade do projecto reside menos em aplicar teorias contemporâneas às práticas com terra do que em investigar como essas práticas podem deslocar, tensionar ou reformular os próprios termos através dos quais matéria, técnica e conhecimento têm sido tradicionalmente pensados. Nesse sentido, o projecto procura contribuir para debates contemporâneos em história e filosofia da técnica, particularmente no que diz respeito às relações entre materialidade, conhecimento situado e práticas colectivas de produção e transmissão técnica.
 
 # Metodologia
 
@@ -72,9 +84,9 @@ Esta investigação recorre a métodos etnográficos e baseados na prática, ent
 
 A investigação basear-se-á em três modalidades complementares de trabalho em campo.
 
-A primeira é a **participação directa em processos construtivos com terra**, incluindo oficinas, mutirões e projectos de construção colectiva em contextos portugueses e ibero-americanos. Esta participação não é meramente observacional: implica o envolvimento corporal com os materiais, os gestos, os ritmos e as formas de coordenação que caracterizam estas práticas. Seguindo a proposta de Ingold, o investigador não estuda a prática de fora, mas aprende através dela — o que significa que o próprio processo de aprendizagem é um dado metodológico.
+A primeira é a **participação directa em processos construtivos com terra**, incluindo oficinas, mutirões e projectos de construção colectiva em contextos portugueses e ibero-americanos. Esta participação não é meramente observacional: implica o envolvimento corporal com os materiais, os gestos, os ritmos e as formas de coordenação que caracterizam estas práticas. Seguindo a proposta de Ingold, o investigador procura aprender através da prática e do envolvimento material — o que significa que o próprio processo de aprendizagem constitui um dado metodológico.
 
-A segunda modalidade é a **documentação etnográfica** — registos em diário de campo, fotografia e vídeo — orientada não para a captura de factos, mas para a atenção a momentos de tensão, improvisação, negociação e falha. São precisamente esses momentos — em que a forma resiste, o material cede de forma inesperada, ou a coordenação colectiva se reconfigura — que revelam as condições ontológicas das práticas com terra.
+A segunda modalidade é a documentação etnográfica — registos em diário de campo, fotografia e vídeo — orientada não para a captura de factos, mas para a atenção a momentos de tensão, improvisação, negociação, adaptação e falha: por exemplo, decisões colectivas sobre mistura e manutenção, respostas a fissuras e erosão, formas de coordenação entre participantes, transmissão informal de técnicas e modos de atenção ao comportamento do material. São precisamente esses momentos — em que a forma resiste, o material cede de forma inesperada, ou a coordenação colectiva se reconfigura — que revelam as condições ontológicas das práticas com terra.
 
 A terceira modalidade é o **diálogo com praticantes** — construtores, artesãos, artistas e comunidades que trabalham com terra — não como informantes cujo saber é extraído e depois traduzido em linguagem académica, mas como interlocutores cujas formulações, vocabulários e formas de atenção constituem eles próprios material teórico. Esta abordagem está alinhada com o que Puig de la Bellacasa descreve como *thinking with* — pensar com, e não apenas sobre.
 
@@ -85,7 +97,7 @@ A análise do material recolhido orientar-se-á pela pergunta central da investi
 | Ano | Actividades principais |
 |-----|----------------------|
 | **1º ano** | Revisão aprofundada da literatura nos três eixos temáticos. Definição dos contextos de trabalho em campo. Primeiras participações em processos construtivos. Início do diário de investigação. |
-| **2º ano** | Trabalho de campo intensivo. Participação em mutirões e oficinas de construção com terra em Portugal e, se possível, no Brasil. Recolha e análise preliminar de material etnográfico. Primeira articulação dos conceitos emergentes. |
+| **2º ano** | Trabalho de campo intensivo. Participação em mutirões e oficinas de construção com terra em Portugal e, se possível, no Brasil. Recolha e análise preliminar de material etnográfico. Primeira articulação dos conceitos emergentes. Início da redacção de capítulos analíticos preliminares. |
 | **3º ano** | Aprofundamento teórico e início da redacção da tese. Apresentação de resultados parciais em conferências. Submissão de artigo a revista científica. |
 | **4º ano** | Redacção final da tese. Revisão e entrega. Defesa pública. |
 
