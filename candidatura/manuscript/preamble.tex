@@ -1,7 +1,8 @@
 % --- Fonts (ambas de Hermann Zapf — combinam perfeitamente) ---
 \usepackage{fontspec}
-\setmainfont{Palatino}[Numbers = OldStyle, Ligatures = TeX]
-\setsansfont{Optima}[Scale = MatchLowercase]
+\setmainfont{Libertinus Serif}[Numbers = OldStyle, Ligatures = TeX]
+\setsansfont{Inter}[Scale = MatchLowercase]
+\newfontfamily\intersemibold{Inter SemiBold}[Scale = MatchLowercase]
 \setmonofont{JetBrains Mono}[Scale = 0.85]
 
 % --- Micro-typography ---
@@ -27,10 +28,9 @@
 % --- Section headings ---
 \usepackage{titlesec}
 \titleformat{\section}
-  {\normalfont\footnotesize\sffamily\bfseries\color{muted}}
-  {}{0em}{\MakeUppercase}
-  [\vspace{0.25em}{\color{linecolor}\hrule height 0.35pt}\vspace{0.3em}]
-\titlespacing{\section}{0pt}{1.6em}{0.6em}
+  {\intersemibold\fontsize{13.5}{16.2}\selectfont\color{accent}}
+  {}{0em}{}
+\titlespacing{\section}{0pt}{0pt}{0pt}
 
 \titleformat{\subsection}
   {\normalfont\small\sffamily\bfseries}
@@ -41,20 +41,31 @@
 \usepackage{enumitem}
 \setlist{nosep, leftmargin=*, topsep=2pt}
 
-% --- No page numbers ---
-\pagestyle{empty}
+% --- Paragraph formatting ---
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5\baselineskip}
+
+% --- Hyphenation ---
+\hyphenpenalty=50
+\exhyphenpenalty=50
 
 % --- Widow/orphan control ---
 \widowpenalty=10000
 \clubpenalty=10000
 
-% --- Author block for proposta ---
+% --- Proposta header block ---
+% Ajuste os \vspace abaixo para controlar os espaçamentos do cabeçalho
+\newcommand{\doctitle}[1]{%
+  {\centering\normalfont\sffamily\fontsize{22}{26.4}\selectfont#1\par}%
+  \vspace{-0.5\baselineskip}%
+}
+\newcommand{\docsubtitle}[1]{%
+  {\centering\intersemibold\fontsize{14}{16.8}\selectfont#1\par}%
+}
 \newcommand{\authorname}[1]{%
-  {\vspace{0.5em}\small\sffamily\color{muted}#1\par}%
+  {\small\sffamily\color{muted}#1\par}%
 }
 \newcommand{\authoraffil}[1]{%
-  \vspace{0.2em}%
-  {\small\sffamily\color{muted}#1\par}%
-  \vspace{1.4em}%
-  {\color{linecolor}\hrule height 0.5pt}\vspace{1.6em}%
+  {\parskip=0pt\small\sffamily\color{muted}#1\par}%
+  \vspace*{-\baselineskip}%
 }
