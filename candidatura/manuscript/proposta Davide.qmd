@@ -21,37 +21,33 @@ Os resultados apontaram que a precariedade, em vez de ser compreendida como frag
 
 Neste contexto, o cuidado aproxima-se da formulação proposta por @delabellacasaNothingComesIts2012, enquanto condição material de sustentação de relações que emerge através do envolvimento com processos instáveis e precários.
 
-O encerramento da dissertação, contudo, não esgotou a questão. O próprio trabalho reconheceu as limitações de desenvolver-se a partir de um conjunto circunscrito de escolhas metodológicas e de um contexto institucional condicionado pelas temporalidades de um programa de mestrado. 
+O encerramento da dissertação, contudo, não esgotou a questão. O próprio trabalho reconheceu as limitações de desenvolver-se a partir de um conjunto circunscrito de escolhas metodológicas e de um contexto institucional condicionado pelas temporalidades de um programa de mestrado.
 
 Essas reflexões levaram-me a procurar novas oportunidades para aprofundamento das questões então levantadas, através de metodologias de investigação mais extensas e de um enquadramento multidisciplinar capaz de desenvolver não apenas a dimensão prática e material dessas experiências, mas também as suas implicações para debates contemporâneos em torno da filosofia, da técnica e da produção de conhecimento.
 
 É a partir dessas questões que a presente investigação procura desenvolver-se.
 
-# Enquadramento teórico e justificativa
+# Enquadramento teórico
 
-Os estudos existentes documentam técnicas construtivas e caracterizam materiais [@rocha2015; @fernandesCadernosConstrucaoCom2016; @faria2018; @mendesCadernosConstrucaoCom2023], e analisam estratégias de conservação e transmissão de saberes vernaculares [@fathy2000; @lengenManualArquitectoDescalco2010].
+Os estudos existentes documentam técnicas construtivas e caracterizam materiais [@rocha2015; @fernandesCadernosConstrucaoCom2016; @faria2018; @mendesCadernosConstrucaoCom2023], e analisam estratégias de conservação e transmissão de saberes vernáculos [@fathy2000; @lengenManualArquitectoDescalco2010].
 
-A antropologia da prática, nomeadamente através do trabalho de @ingoldFazerAntropologiaArqueologia2022 e da fenomenologia de @merleauponty2022, descreve o conhecimento como emergente do engajamento directo com materiais e ambientes. O próprio Ingold recorre pontualmente ao barro como exemplo, mas sem o aprofundamento que decorre do ofício e do conhecimento que só se adquire através de anos de prática cerâmica ou construtiva com terra.
+A antropologia da prática, nomeadamente através do trabalho de @ingoldFazerAntropologiaArqueologia2022 e da fenomenologia de @merleauponty2022, descreve a experiência como emergente do engajamento corpóreo com materiais e o contexto. O próprio Ingold recorre em alguns momentos ao barro como exemplo, mas sem o aprofundamento que decorre do ofício e do conhecimento prático que só se adquire através de anos de prática ceramista ou construtiva com terra.
 
-Este quadro oferece uma base sólida, mas não esgota a especificidade do barro e da terra como campos de experiência fenomenológica e simbólica. Em investigações anteriores, desenvolvidas no âmbito da paisagem cultural e da prática artística [@teodorodeassisEntreTerraAgua2026], o barro foi abordado como operador simbólico capaz de articular corpo, memória, território e experiência material. Nessas investigações, a terra não aparece apenas como matéria construtiva, mas como meio através do qual relações de pertencimento, ancestralidade e imaginação material se tornam sensíveis. Investigações no campo da arteterapia com barro [@urrutigarayArteterapiaTransformacaoPessoal2023; @gouveaSolTerraUso2021] têm igualmente mostrado que o contacto com estes materiais constitui uma via de acesso a conteúdos simbólicos, tanto culturais e colectivos como de ordem mais profunda.
-
-A presente investigação propõe que as dimensões fenomenológica, simbólica e epistemológica são inseparáveis nas práticas colectivas com terra, e que a sua articulação permanece pouco explorada na literatura existente.
+Este quadro oferece uma base sólida, mas não esgota a especificidade do barro e da terra como campos de experiência fenomenológica e simbólica. Em investigações anteriores, desenvolvidas no âmbito da paisagem cultural e da prática artística [@teodorodeassisEntreTerraAgua2026], o barro foi abordado como operador simbólico capaz de articular corpo, memória, território e experiência material. Nessa investigação, o barro e a terra surgem como meios através dos quais a paisagem cultural pode ser compreendida para além dos seus registos físicos e materiais, permitindo aceder a dimensões sensíveis, simbólicas e relacionais frequentemente subestimadas por abordagens centradas apenas na materialidade visível.
 
 É nesse espaço, entre o engajamento fenomenológico com o material, a sua dimensão simbólica e as formas de conhecimento que emergem da prática colectiva, que a presente investigação se insere. O simbólico não é aqui entendido como dimensão interpretativa separada da prática material, mas como dimensão constitutiva da experiência técnica, corporal e colectiva.
 
-Situando-se na intersecção entre filosofia da técnica, antropologia da prática e epistemologia das práticas materiais, a proposta contribui para debates contemporâneos sobre as relações entre prática, conhecimento situado e dimensão simbólica do fazer, dimensões para as quais o Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia oferece um enquadramento privilegiado.
-
-Nesse sentido, a investigação propõe compreender práticas com terra não apenas como objectos técnicos, culturais ou patrimoniais, mas como modos activos de produção de conhecimento.
-
 # Questão de investigação
 
-Diante desse quadro investigativo, parte-se da hipótese de que práticas com barro cru e terra podem ser compreendidas não apenas como objectos técnicos, culturais ou patrimoniais, mas como formas situadas de conhecimento através das quais determinadas questões teóricas emergem do envolvimento directo com materiais, gestos e técnicas concretas.
+Diante desse quadro investigativo, a investigação parte da hipótese de que a terra e o barro possuem a capacidade de evocar sentidos e formas de conhecimento que, sem o contacto material, permaneceriam inacessíveis. Práticas com barro cru e terra podem assim ser compreendidas não apenas como objectos técnicos, culturais ou patrimoniais, mas como campos materiais de evocação através dos quais determinadas questões teóricas emergem do envolvimento directo com materiais, gestos e técnicas concretas.
 
-É nesse contexto que a investigação se desenvolve, articulando questões relativas ao cuidado, à agência e às relações entre matéria e conhecimento a práticas materiais ligadas à terra e ao barro cru.
+É nesse contexto que a investigação se desenvolve, procurando compreender de que modo práticas colectivas com terra fazem emergir formas de organização, cuidado e conhecimento situado que de outro modo permaneceriam invisíveis. A proposta procura aceder a essas dimensões através de metodologias etnográficas e baseadas na prática, articulando participação em oficinas, processos construtivos e práticas colectivas com terra em diferentes contextos.
+
+Esta abordagem é informada por uma trajectória que articula prática artística, cerâmica, arteterapia e investigação académica, permitindo permanecer suficientemente próxima do fazer para que aquilo que o material evoca possa ser identificado, documentado e colocado em diálogo com debates teóricos contemporâneos.
 
 # Metodologia
 
-A investigação desenvolver-se-á através de metodologias etnográficas, investigação baseada na prática (practice-based research) e autoetnografia situada, articulando participação directa em oficinas, processos construtivos e práticas colectivas com terra, além de registos de campo, documentação audiovisual e reflexão teórica.
+A investigação desenvolver-se-á através de metodologias etnográficas, investigação baseada na prática (*practice-based research*) e autoetnografia situada, articulando participação directa em oficinas, processos construtivos e práticas colectivas com terra, além de registos de campo, documentação audiovisual e reflexão teórica.
 
 Mais do que tratar essas experiências como objectos externos de análise, a proposta procura permanecer suficientemente próxima das práticas para que os conceitos que delas emergem possam ser identificados e colocados em diálogo com debates teóricos contemporâneos, particularmente no campo da filosofia da técnica e da antropologia da prática.
 
