@@ -15,25 +15,19 @@ Co-orientadora: Prof.ª Paulina Faria - Departamento de Engenharia Civil, FCT NO
 ```
 # Introdução
 
-Esta investigação emerge da pesquisa desenvolvida no mestrado em Arte e Ciência do Vidro e Cerâmica (VICARTE, FCT NOVA), que tratou da relação entre cerâmica e arquitectura através de práticas com terra e barro cru que desafiam ideais de permanência presentes nessas disciplinas ao assumir a precariedade como condição constitutiva. 
+Esta investigação emerge da pesquisa desenvolvida no mestrado em Arte e Ciência do Vidro e Cerâmica (VICARTE, FCT NOVA), que investigou a relação entre cerâmica e arquitectura a partir de práticas com terra e barro cru. Marcadas pela instabilidade, pela transformação e pela vulnerabilidade às condições ambientais, essas práticas desafiam ideais de permanência historicamente associados a ambas as disciplinas ao assumirem a precariedade como condição constitutiva.
 
-O estudo articulou ação colectiva, simbolismo da terra e processos artísticos e arquitectónicos a partir de uma abordagem qualitativa e autoetnográfica. Os resultados apontaram para formas de organização emergentes de relações materiais e colectivas inerentemente instáveis, nas quais o cuidado se revelou condição recorrente para a sustentação dos processos.
+Os resultados apontaram que a precariedade, em vez de ser compreendida como fragilidade, constitui condição essencial para o surgimento de formas de organização emergentes, nas quais o cuidado se revelou elemento recorrente na sustentação dos processos colectivos e materiais.
 
 Neste contexto, o cuidado aproxima-se da formulação proposta por @delabellacasaNothingComesIts2012, enquanto condição material de sustentação de relações que emerge através do envolvimento com processos instáveis e precários.
 
 O encerramento da dissertação, contudo, não esgotou a questão. O próprio trabalho reconheceu as limitações de desenvolver-se a partir de um conjunto circunscrito de escolhas metodológicas e de um contexto institucional condicionado pelas temporalidades de um programa de mestrado. 
 
-Essas reflexões levaram-me a procurar um aprofundamento das questões então levantadas, através de metodologias de investigação mais extensas e de um enquadramento multidisciplinar capaz de desenvolver não apenas a dimensão prática e material dessas experiências, mas também as suas implicações para debates contemporâneos em torno da filosofia, da técnica e da produção de conhecimento.
+Essas reflexões levaram-me a procurar novas oportunidades para aprofundamento das questões então levantadas, através de metodologias de investigação mais extensas e de um enquadramento multidisciplinar capaz de desenvolver não apenas a dimensão prática e material dessas experiências, mas também as suas implicações para debates contemporâneos em torno da filosofia, da técnica e da produção de conhecimento.
 
 É a partir dessas questões que a presente investigação procura desenvolver-se.
 
-# Questão de investigação
-
-A presente investigação parte da hipótese de que práticas com barro cru e terra podem ser abordadas não apenas como objectos de descrição técnica ou patrimonial, mas como formas de conhecimento através das quais determinadas questões teóricas emergem do envolvimento directo com materiais, gestos e técnicas concretas.
-
-A investigação organiza-se em torno da seguinte pergunta: de que modo práticas com barro cru e terra podem funcionar como formas situadas de conhecimento, através das quais questões relativas ao cuidado, à materialidade, à técnica e ao agenciamento colectivo se tornam pensáveis?
-
-# Justificativa
+# Enquadramento teórico e justificativa
 
 Os estudos existentes documentam técnicas construtivas e caracterizam materiais [@rocha2015; @fernandesCadernosConstrucaoCom2016; @faria2018; @mendesCadernosConstrucaoCom2023], e analisam estratégias de conservação e transmissão de saberes vernaculares [@fathy2000; @lengenManualArquitectoDescalco2010].
 
@@ -43,11 +37,21 @@ Este quadro oferece uma base sólida, mas não esgota a especificidade do barro 
 
 A presente investigação propõe que as dimensões fenomenológica, simbólica e epistemológica são inseparáveis nas práticas colectivas com terra, e que a sua articulação permanece pouco explorada na literatura existente.
 
-É nesse espaço, entre o engajamento fenomenológico com o material, a sua dimensão simbólica e as formas de conhecimento que emergem da prática colectiva, que a presente investigação se insere. Situando-se na intersecção entre filosofia da técnica, antropologia da prática e epistemologia das práticas materiais, a proposta contribui para debates contemporâneos sobre as relações entre prática, conhecimento situado e dimensão simbólica do fazer, dimensões para as quais o Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia oferece um enquadramento privilegiado.
+É nesse espaço, entre o engajamento fenomenológico com o material, a sua dimensão simbólica e as formas de conhecimento que emergem da prática colectiva, que a presente investigação se insere. O simbólico não é aqui entendido como dimensão interpretativa separada da prática material, mas como dimensão constitutiva da experiência técnica, corporal e colectiva.
+
+Situando-se na intersecção entre filosofia da técnica, antropologia da prática e epistemologia das práticas materiais, a proposta contribui para debates contemporâneos sobre as relações entre prática, conhecimento situado e dimensão simbólica do fazer, dimensões para as quais o Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia oferece um enquadramento privilegiado.
+
+Nesse sentido, a investigação propõe compreender práticas com terra não apenas como objectos técnicos, culturais ou patrimoniais, mas como modos activos de produção de conhecimento.
+
+# Questão de investigação
+
+Diante desse quadro investigativo, parte-se da hipótese de que práticas com barro cru e terra podem ser compreendidas não apenas como objectos técnicos, culturais ou patrimoniais, mas como formas situadas de conhecimento através das quais determinadas questões teóricas emergem do envolvimento directo com materiais, gestos e técnicas concretas.
+
+É nesse contexto que a investigação se desenvolve, articulando questões relativas ao cuidado, à agência e às relações entre matéria e conhecimento a práticas materiais ligadas à terra e ao barro cru.
 
 # Metodologia
 
-A investigação desenvolver-se-á através de metodologias etnográficas e baseadas na prática, articulando participação directa em oficinas, processos construtivos e práticas colectivas com terra, além de registos de campo, documentação audiovisual e reflexão teórica.
+A investigação desenvolver-se-á através de metodologias etnográficas, investigação baseada na prática (practice-based research) e autoetnografia situada, articulando participação directa em oficinas, processos construtivos e práticas colectivas com terra, além de registos de campo, documentação audiovisual e reflexão teórica.
 
 Mais do que tratar essas experiências como objectos externos de análise, a proposta procura permanecer suficientemente próxima das práticas para que os conceitos que delas emergem possam ser identificados e colocados em diálogo com debates teóricos contemporâneos, particularmente no campo da filosofia da técnica e da antropologia da prática.
 
