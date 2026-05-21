@@ -1,21 +1,17 @@
 ---
 lang: pt
-format:
-  pdf:
-    include-in-header:
-      - preamble.tex
-    include-before-body:
-      text: |
-        \cvname{Gustavo Teodoro de Assis}
-        \cvcontact{%
-          Arquitecto · Ceramista · Investigador em arte e materialidade \quad
-          g.assis@me.com \quad
-          +351 928 118 479\\[0.2em]
-          ORCID: \href{https://orcid.org/0009-0002-4167-0732}{0009-0002-4167-0732} \quad
-          Ciência ID: 2213-4817-4BF2%
-        }
 ---
-
+```{=latex}
+\pagestyle{plain}
+\cvname{Gustavo Teodoro de Assis}
+\cvcontact{%
+  Arquitecto · Ceramista · Investigador em arte e materialidade \quad
+  g.assis@me.com \quad
+  +351 928 118 479\\[0.2em]
+  ORCID: \href{https://orcid.org/0009-0002-4167-0732}{0009-0002-4167-0732} \quad
+  Ciência ID: 2213-4817-4BF2%
+}
+```
 # Formação Académica
 
 **Mestrado em Arte e Ciência do Vidro e da Cerâmica** *(em conclusão)*\

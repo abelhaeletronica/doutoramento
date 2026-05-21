@@ -1,14 +1,12 @@
 ---
 lang: pt
-title: "Carta de Motivação"
-subtitle: "Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia"
-author: "Gustavo Teodoro de Assis"
-date: today
-date-format: "D [de] MMMM [de] YYYY"
 ---
-Aqui vai a carta completa com as duas inserções:
-
----
+```{=latex}
+\pagestyle{plain}
+\doctitle{Carta de Motivação}
+\docsubtitle{Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia}
+\authorname{Gustavo Teodoro de Assis}
+```
 Durante um workshop em Portugal, ao jogar água numa terra vermelha, senti o cheiro de terra molhada que me remeteu imediatamente aos dias de verão na casa da minha avó em Minas Gerais. Quando partilhei essa lembrança com uma colega de Guiné-Bissau, ela respondeu animada: "Eu também!" Duas pessoas de continentes diferentes, com histórias completamente distintas — e o mesmo gesto abriu simultaneamente duas infâncias, dois territórios, duas memórias corporais. Foi nesse momento que percebi que o que me interessa não é apenas o barro como material, mas o que ele é capaz de evocar: sentidos e conhecimentos que, sem o contacto material, permanecem inacessíveis.
 
 A minha trajectória até esta candidatura não é linear, mas revela uma continuidade progressiva entre prática artística, investigação material e reflexão teórica. Formei-me em Arquitectura e Urbanismo no Rio de Janeiro, passei por Quioto, onde o contacto com a cerâmica japonesa reorientou profundamente o meu percurso, e instalei-me posteriormente em Nova Friburgo, na região serrana do Rio de Janeiro, onde mantive um ateliê de cerâmica durante vários anos.

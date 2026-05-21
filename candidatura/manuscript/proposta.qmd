@@ -1,12 +1,12 @@
 ---
 lang: pt
-title: "Barro como pensamento"
-subtitle: "Práticas colectivas de construção com terra como formas situadas de produção conceitual"
-
 bibliography: ../../tese/4-Bibliography/bibliography.bib
+csl: apa.csl
 ---
-
 ```{=latex}
+\pagestyle{plain}
+\doctitle{Barro como pensamento}
+\docsubtitle{Práticas colectivas de construção com terra como formas situadas de produção conceitual}
 \authorname{Gustavo Teodoro de Assis}
 
 \authoraffil{Doutoramento em História, Filosofia e Património da Ciência e da Tecnologia\\
