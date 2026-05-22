@@ -50,7 +50,5 @@ format:
     include-in-header:
       - preamble.tex
 
-  docx: default
-
 execute:
   echo: false
