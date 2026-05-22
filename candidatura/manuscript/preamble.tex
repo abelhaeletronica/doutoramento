@@ -1,71 +1,152 @@
-% --- Fonts (ambas de Hermann Zapf — combinam perfeitamente) ---
-\usepackage{fontspec}
-\setmainfont{Libertinus Serif}[Numbers = OldStyle, Ligatures = TeX]
-\setsansfont{Inter}[Scale = MatchLowercase]
-\newfontfamily\intersemibold{Inter SemiBold}[Scale = MatchLowercase]
-\setmonofont{JetBrains Mono}[Scale = 0.85]
+% =============================================================
+% CONFIGURAÇÕES TIPOGRÁFICAS — preamble.tex
+%
+% Este ficheiro controla a aparência visual dos documentos.
+% As fontes, tamanhos de texto, margens e espaçamento
+% entre linhas estão no ficheiro _quarto.yml, que é mais
+% fácil de editar.
+%
+% Aqui ficam apenas as configurações que o Quarto
+% não consegue expressar directamente.
+% =============================================================
 
-% --- Micro-typography ---
+
+% --- Variante semibold da fonte Inter (usada nos títulos de secção) ---
+% Não mover para o _quarto.yml — define um nome de comando interno
+\usepackage{fontspec}
+\newfontfamily\intersemibold{Inter SemiBold}[Scale=MatchLowercase]
+
+
+% --- Micro-tipografia ---
+% Melhora o espacejamento entre letras automaticamente.
+% Não precisa de alterar.
 \usepackage{microtype}
 
-% --- Colour ---
+
+% =============================================================
+% CORES
+% Para mudar uma cor, substitua o código hexadecimal.
+% Pode usar qualquer ferramenta de escolha de cores online.
+% =============================================================
+
 \usepackage{xcolor}
+
+% Cor principal do texto (títulos de secção, etc.)
 \definecolor{accent}{HTML}{1A1A1A}
+
+% Cor secundária (nome do autor, afiliação, contactos)
 \definecolor{muted}{HTML}{555555}
+
+% Cor da linha divisória no CV
 \definecolor{linecolor}{HTML}{C8C8C8}
 
-% --- Header block ---
-\newcommand{\cvname}[1]{%
-  {\centering\fontsize{22}{26}\selectfont\sffamily\textbf{#1}\par}%
-}
-\newcommand{\cvcontact}[1]{%
-  \vspace{0.4em}%
-  {\centering\small\sffamily\color{muted}#1\par}%
-  \vspace{1.4em}%
-  {\color{linecolor}\hrule height 0.5pt}\vspace{1.6em}%
-}
 
-% --- Section headings ---
+% =============================================================
+% TÍTULOS DE SECÇÃO
+% Controla a aparência dos títulos # como "Introdução",
+% "Metodologia", etc.
+% =============================================================
+
 \usepackage{titlesec}
+
+% Título de nível 1 (#)
+% Para mudar o tamanho: altere o primeiro número (13.5)
+% Para mudar a cor: substitua \color{accent} por outra cor definida acima
 \titleformat{\section}
   {\intersemibold\fontsize{13.5}{16.2}\selectfont\color{accent}}
   {}{0em}{}
 \titlespacing{\section}{0pt}{0pt}{0pt}
 
+% Título de nível 2 (##)
 \titleformat{\subsection}
   {\normalfont\small\sffamily\bfseries}
   {}{0em}{}
 \titlespacing{\subsection}{0pt}{1.2em}{0.4em}
 
-% --- List spacing ---
+
+% =============================================================
+% LISTAS
+% Reduz o espaçamento entre itens de listas.
+% Não precisa de alterar normalmente.
+% =============================================================
+
 \usepackage{enumitem}
 \setlist{nosep, leftmargin=*, topsep=2pt}
 
-% --- Paragraph formatting ---
-\setlength{\parindent}{0pt}
+
+% =============================================================
+% PARÁGRAFOS
+% =============================================================
+
+% Espaço entre parágrafos (0.5 = metade de uma linha)
+% Para aumentar o espaço entre parágrafos, aumente este número
 \setlength{\parskip}{0.5\baselineskip}
 
-% --- Hyphenation ---
+
+% =============================================================
+% HIFENIZAÇÃO E CONTROLO DE PÁGINA
+% Evita palavras cortadas e linhas isoladas no topo/fundo.
+% Não precisa de alterar.
+% =============================================================
+
 \hyphenpenalty=50
 \exhyphenpenalty=50
-
-% --- Widow/orphan control ---
 \widowpenalty=10000
 \clubpenalty=10000
 
-% --- Proposta header block ---
-% Ajuste os \vspace abaixo para controlar os espaçamentos do cabeçalho
+
+% =============================================================
+% CABEÇALHO DOS DOCUMENTOS DE PROPOSTA E CARTA
+%
+% Estes comandos controlam o bloco de título no topo
+% dos documentos (proposta-davide.qmd, proposta.qmd, carta.qmd).
+%
+% Para mudar o tamanho de cada elemento:
+%   altere o primeiro número em \fontsize{XX}{YY}
+%   (o segundo número é o espaçamento de linha — mantenha ~1.2× o primeiro)
+% =============================================================
+
+% Título principal do documento
+% Tamanho actual: 22pt
 \newcommand{\doctitle}[1]{%
   {\centering\normalfont\sffamily\fontsize{22}{26.4}\selectfont#1\par}%
   \vspace{-0.5\baselineskip}%
 }
+
+% Subtítulo do documento
+% Tamanho actual: 14pt
 \newcommand{\docsubtitle}[1]{%
   {\centering\intersemibold\fontsize{14}{16.8}\selectfont#1\par}%
 }
+
+% Nome do autor
 \newcommand{\authorname}[1]{%
   {\normalsize\sffamily\color{muted}#1\par}%
 }
+
+% Afiliação / instituição
 \newcommand{\authoraffil}[1]{%
   {\parskip=0pt\normalsize\sffamily\color{muted}#1\par}%
   \vspace*{-\baselineskip}%
+}
+
+
+% =============================================================
+% CABEÇALHO DO CURRICULUM VITAE (cv.qmd)
+%
+% Para mudar o tamanho do nome: altere o número 22
+% =============================================================
+
+% Nome no topo do CV
+% Tamanho actual: 22pt
+\newcommand{\cvname}[1]{%
+  {\centering\fontsize{22}{26}\selectfont\sffamily\textbf{#1}\par}%
+}
+
+% Linha de contactos e informação abaixo do nome
+\newcommand{\cvcontact}[1]{%
+  \vspace{0.4em}%
+  {\centering\small\sffamily\color{muted}#1\par}%
+  \vspace{1.4em}%
+  {\color{linecolor}\hrule height 0.5pt}\vspace{1.6em}%
 }
