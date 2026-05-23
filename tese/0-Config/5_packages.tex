@@ -40,6 +40,15 @@
 %%  ADD YOUR PACKAGES AND OTHER CUSTOMIZATIONS HERE
 %%============================================================
 
+% Open Sans for headings only (main text stays newpx/palatino)
+\usepackage[defaultsans,scale=0.95]{opensans}
+\renewcommand*{\printchaptertitle}[1]{%
+  {\raggedleft\sffamily\huge\bfseries #1\par}\nobreak%
+}
+\setsecheadstyle{\sffamily\Large\bfseries\raggedright}
+\setsubsecheadstyle{\sffamily\large\bfseries\raggedright}
+\setsubsubsecheadstyle{\sffamily\normalsize\bfseries\raggedright}
+
 % \usepackage[orphans/prevent, widows/prevent]{widows-and-orphans} % add warnings about widows and orphans to “template.log”
 % \usepackage{refcheck}     % list used and unused labels
 
@@ -119,4 +128,3 @@
 %       {ç}{{\c c}}1 {Ç}{{\c C}}1 {ø}{{\o}}1 {å}{{\r a}}1 {Å}{{\r A}}1
 %       {€}{{\EUR}}1 {£}{{\pounds}}1
 % }
-
