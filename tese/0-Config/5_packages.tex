@@ -45,9 +45,23 @@
 \renewcommand*{\printchaptertitle}[1]{%
   {\raggedleft\sffamily\huge\bfseries #1\par}\nobreak%
 }
+\makeatletter
+\xpatchcmd{\chs@ell@helper}{\chapnumfont\normalfont}{\chapnumfont\sffamily}{}{}
+\xpatchcmd{\chs@ell@helper}{\chapnumfont\normalfont}{\chapnumfont\sffamily}{}{}
+\makeatother
 \setsecheadstyle{\sffamily\Large\bfseries\raggedright}
 \setsubsecheadstyle{\sffamily\large\bfseries\raggedright}
 \setsubsubsecheadstyle{\sffamily\normalsize\bfseries\raggedright}
+
+% Open Sans for the table of contents and list of figures
+\renewcommand*{\cftchapterfont}{\sffamily\bfseries}
+\renewcommand*{\cftchapterpagefont}{\sffamily\bfseries}
+\renewcommand*{\cftsectionfont}{\sffamily}
+\renewcommand*{\cftsectionpagefont}{\sffamily}
+\renewcommand*{\cftsubsectionfont}{\sffamily}
+\renewcommand*{\cftsubsectionpagefont}{\sffamily}
+\renewcommand*{\cftfigurefont}{\sffamily}
+\renewcommand*{\cftfigurepagefont}{\sffamily}
 
 % \usepackage[orphans/prevent, widows/prevent]{widows-and-orphans} % add warnings about widows and orphans to “template.log”
 % \usepackage{refcheck}     % list used and unused labels
