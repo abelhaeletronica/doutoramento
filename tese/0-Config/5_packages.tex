@@ -63,6 +63,11 @@
 \renewcommand*{\cftfigurefont}{\sffamily}
 \renewcommand*{\cftfigurepagefont}{\sffamily}
 
+% Open Sans for running headers
+\makeheadrule{novathesis@mainmatter}{0pt}{0pt}
+\makeevenhead{novathesis@mainmatter}{\small\sffamily\leftmark}{}{}
+\makeoddhead{novathesis@mainmatter}{}{}{\small\sffamily\rightorleftmark}
+
 % \usepackage[orphans/prevent, widows/prevent]{widows-and-orphans} % add warnings about widows and orphans to “template.log”
 % \usepackage{refcheck}     % list used and unused labels
 
